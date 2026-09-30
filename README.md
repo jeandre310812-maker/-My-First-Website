@@ -1,8 +1,8 @@
 # -My-First-Website
 This is a website I built using HTML and CSS as one of my first web development projects.
-🚀 Live Website
+## 🚀 Live Website
 
-🔗 View the website
+[🌐 View the website](https://quiet-kataifi-d95fb8.netlify.app/)
 
 🛠️ Technologies Used
 
